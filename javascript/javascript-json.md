@@ -1,6 +1,6 @@
 ### JSON: Stringify
 ```
-      var results = [];
+    var results = [];
 
     results.push({
         fundingId: 1,
