@@ -39,4 +39,3 @@ Example
 * [JSON Validator](https://jsonlint.com/)
 * [Comments are not allowed in JSON](https://stackoverflow.com/questions/244777/can-comments-be-used-in-json)
 * [JSON {} With OpenAI](https://dev.to/mattlewandowski93/json-with-openai-3je9)
-* 
