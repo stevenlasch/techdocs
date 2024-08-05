@@ -1,2 +1,2 @@
-# techdocs
-Development documentation
+# Technical Documentation
+* [JavaScript](javascript/)
